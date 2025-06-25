@@ -1,0 +1,7 @@
+/* ПРАВИЛА ДЛЯ СТРАНИЦ С ЛЮДЬМИ */
+
+.human {
+  width: 500px;
+  border-radius: 3%;
+  box-shadow: 0px 0px 5px;
+}
