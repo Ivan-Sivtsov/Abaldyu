@@ -199,3 +199,14 @@ a{
 }
 
 }
+
+@media (max-width: 500px) {
+   .blockWithPeople{
+      width: auto;
+      margin-left: -10px;
+      min-width: none;
+      border: none;
+      border-radius: 0;
+      box-shadow: none;
+   }
+}
